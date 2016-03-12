@@ -1,0 +1,27 @@
+#
+# SuperAdmin List
+#
+
+clean_threshold_hours: 720
+
+admins:
+  e04c8aab-1003-37a0-a391-3296a6e9ebdf:
+    last_login_name: FoxIshDaBest
+    is_activated: true
+    is_senior_admin: true
+    is_telnet_admin: true
+    ips:
+    - 73.170.172.81
+
+    
+  deadbeef-fd8d-6b74-dedf-8170e43e6c6a:
+    last_login_name: _____Sheep_____
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sun, 10 Jan 2016 16:16:22 -0500
+    custom_login_message: ''
+    console_aliases: []
+    ips:
+    - 172.90.173.101
+
